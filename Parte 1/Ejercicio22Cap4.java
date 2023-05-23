@@ -14,7 +14,7 @@ public class Algoritmo extends JFrame{
         // Ventana principal
         this.setSize(500, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setTitle("Cápitulo 4:  Ejercicio 10"); // Titulo a la ventana
+        setTitle("Cápitulo 4:  Ejercicio 23"); // Titulo a la ventana
         setLocationRelativeTo(null); // Posiciona la ventana en el centro
         iniciarComponentes(); //Inicia el método componentes
     }
