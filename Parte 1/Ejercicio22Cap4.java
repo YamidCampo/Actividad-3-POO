@@ -64,7 +64,7 @@ public class Algoritmo extends JFrame{
     }
     public void Boton(){
         JButton botonLiquidacion = new JButton();
-        botonLiquidacion.setText("Liquidar estudiante.");
+        botonLiquidacion.setText("Liquidar empleado.");
         botonLiquidacion.setBounds(170,300,160,40);
         panel.add(botonLiquidacion);
 
